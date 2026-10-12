@@ -42,8 +42,8 @@ This repository contains my Machine Learning practice work, including important 
 
 The main purpose of this repository is to practice Machine Learning concepts and build a strong foundation in model development and evaluation.
 
-## 👨‍💻 Author
+## 👨‍💻 Author:
 
-**Madhusmita**
+     **Madhusmita**
 
 GitHub: [@madhusmitab0000-maker](https://github.com/madhusmitab0000-maker)
